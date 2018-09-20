@@ -1,7 +1,7 @@
 ---
-title: "LxMLS"
+title: "LxMLS Monitor"
 collection: teaching
-type: "Monitor at Summer School"
+type: "Summer School Monitor"
 permalink: /teaching/2018-summer-LxMLS
 venue: "Instituto Superior Técnico"
 date: 2018-06-14

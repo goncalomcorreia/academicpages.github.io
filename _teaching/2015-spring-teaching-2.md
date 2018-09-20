@@ -1,9 +1,9 @@
 ---
-title: "Lisbon Data Science Starters Academy"
+title: "Instructor of Text Classification Specialization at LDSSA"
 collection: teaching
-type: "Workshop"
+type: "Instructor"
 permalink: /teaching/2018-summer-ldssa
-venue: 
+venue: "Lisbon Data Science Starters Academy"
 date: 2018-07-01
 location: "Lisbon, Portugal"
 ---

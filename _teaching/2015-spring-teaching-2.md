@@ -1,20 +1,25 @@
 ---
-title: "Teaching experience 2"
+title: "Lisbon Data Science Starters Academy"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+permalink: /teaching/2018-summer-ldssa
+venue: 
+date: 2018-07-01
+location: "Lisbon, Portugal"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+During July 2018, Catarina Silva, Pedro Ferreira and I were responsible for the 4th Specialization of the Lisbon Data Science Starters Academy, releasing 3 Learning Units and organizing an hackaton related to the topic of Text Classification. Here's the links for the Learning Notebooks:
 
-Heading 1
+- [Feature Extraction](https://github.com/LDSSA/batch2-blu07)
+- [Modelling](https://github.com/LDSSA/batch2-blu08)
+- [Information Extraction and Advanced Text Classification Techniques](https://github.com/LDSSA/batch2-blu09)
+- [Hackathon on Intent Classification](https://github.com/LDSSA/batch2-hackathon4)
+
+<!-- Heading 1
 ======
 
 Heading 2
 ======
 
 Heading 3
-======
+====== -->

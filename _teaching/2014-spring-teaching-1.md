@@ -1,20 +1,20 @@
 ---
 title: "LxMLS"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+type: "Monitor at Summer School"
+permalink: /teaching/2018-summer-LxMLS
+venue: "Instituto Superior Técnico"
+date: 2018-06-14
 location: "Lisbon, Portugal"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I was a monitor on the 2018 edition of the Lisbon Machine Learning School. Besides helping out in the day-to-day organization of the school, I was also responsible of answering questions and helping out students during the Lab sessions.
 
-Heading 1
+<!-- Heading 1
 ======
 
 Heading 2
 ======
 
 Heading 3
-======
+====== -->

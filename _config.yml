@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Gonçalo M. Correia"
-  avatar           : "profile.png"
+  avatar           : "pic.png"
   bio              : "PhD student in Machine Learning/NLP. Part of the <a href='https://deep-spin.github.io/' target='_blank'>DeepSPIN Project</a>. <br>Also likes dogs."
   location         : "Lisbon, Portugal"
   employer         : "Instituto de Telecomunicações"

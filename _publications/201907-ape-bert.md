@@ -13,4 +13,5 @@ author = {Correia, Gonçalo M. and Martins, André F. T.},
 booktitle = {Proceedings of ACL},
 title = A Simple and Effective Approach to Automatic Post-Editing with Transfer Learning,
 year = {2019}}"
+comment: "Presented as a Poster."
 ---

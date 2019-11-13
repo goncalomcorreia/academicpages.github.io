@@ -13,4 +13,5 @@ author = {Correia, Gonçalo M. and Niculae, Vlad and Martins, André F. T.},
 booktitle = {Proceedings of EMNLP},
 title = {Adaptively Sparse Transformers},
 year = {2019}}"
+comment: "Presented as a Talk in Machine Learning Session III."
 ---

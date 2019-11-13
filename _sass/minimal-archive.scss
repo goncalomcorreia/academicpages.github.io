@@ -1,0 +1,100 @@
+$color-abstract: #FFD54F;
+$color-bibtex: #80DEEA;
+$color-arxiv: #FF8A65;
+$color-code: #AED581;
+
+.c-Paper {
+    margin: 2rem 0;
+    font-size: 16px;
+
+    h2, p {
+        margin: 0;
+    }
+
+    &__title {
+        font-size: 1.15rem;
+    }
+
+    &__authors {
+        margin-top: 0.45rem !important;
+        margin-bottom: 0.5rem !important;
+        font-size: 0.9rem;
+    }
+
+    &__modal {
+        position: relative;
+        background-color:#FAFAFA;
+        padding: 3rem;
+        max-width: 700px;
+        display: block;
+        margin: 0 auto;
+        border-radius: 5px;
+        font-size: 0.8rem;
+        text-align: left;
+
+        .popup-modal-dismiss {
+            position: absolute;
+            top: 1rem;
+            right: 1rem;
+        }
+
+        // .popup-modal-title {
+        //     position: absolute;
+        //     top: 1rem;
+        //     left: 1rem;
+        // }
+    }
+
+    &__externalLinks {
+        font-size: 0.7rem;
+
+        &__item {
+            display: inline-block;
+            background-color: #546E7A;
+            padding: 0.25rem 0.5rem;
+            border-radius: 5px;
+
+            transition: all 0.25s ease-in-out;
+
+            & + & {
+                margin-left: 0.3rem;
+            }
+
+            &:hover {
+                background-color: darken(#546E7A, 10%);
+            }
+
+            &.is-abstract {
+                background-color: $color-abstract;
+
+                &:hover {
+                    background-color: darken($color-abstract, 10%);
+                }
+            }
+
+            &.is-bibtex {
+                background-color: $color-bibtex;
+
+                &:hover {
+                    background-color: darken($color-bibtex, 10%);
+                }
+            }
+
+            &.is-arxiv {
+                background-color: $color-arxiv;
+
+                &:hover {
+                    background-color: darken($color-arxiv, 10%);
+                }
+            }
+
+            &.is-code {
+                background-color: $color-code;
+
+                &:hover {
+                    background-color: darken($color-code, 10%);
+                }
+            }
+        }
+    }
+}

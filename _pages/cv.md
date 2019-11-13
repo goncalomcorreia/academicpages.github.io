@@ -11,39 +11,39 @@ redirect_from:
 
 Education
 ======
-* B.S. in Biomedical Engineering, Instituto Superior Técnico, 2015
-* M.S. in Artificial Intelligence, The University of Edinburgh, 2017
-* Ph.D in Machine Learning, Instituto Superior Técnico, 2022 (expected)
+* Ph.D. in Machine Learning, Instituto Superior Técnico, 2022 (expected)
+* M.Sc. in Artificial Intelligence (Machine Learning), The University of Edinburgh, 2017
 
 Work experience
 ======
 * Summer 2016: Intern
   * Unbabel
   * Supervisor: João Graça
-  
+
 Skills
 ======
 * Python
 * PyTorch
 
-<!-- Publications
+Publications
 ======
   <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
+    {% include archive-minimal.html %}
   {% endfor %}</ul>
-  
+
+<!-- 
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul> -->
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 <!-- Service and leadership
 ======
 * Currently signed in to 43 different slack teams -->

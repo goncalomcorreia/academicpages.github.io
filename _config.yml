@@ -82,8 +82,8 @@ author:
   avatar           : "pic.png"
   bio              : "PhD student in Machine Learning/NLP. Part of the <a href='https://deep-spin.github.io/' target='_blank'>DeepSPIN Project</a>. <br>Also likes dogs."
   location         : "Lisbon, Portugal"
-  employer         : "Instituto de Telecomunicações"
-  googlescholar    : 
+  employer         : "<a href='https://www.it.pt/' target='_blank'>IT</a>"
+  googlescholar    : "https://scholar.google.pt/citations?user=0X9U8HYAAAAJ&hl=en"
   email            : "goncalommac@gmail.com"
   uri              :
   bitbucket        :
@@ -173,7 +173,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
-    output: false
+    output: true
     permalink: /:collection/:path/
   portfolio:
     output: true

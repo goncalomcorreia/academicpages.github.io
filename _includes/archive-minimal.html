@@ -1,0 +1,45 @@
+{% include base_path %}
+<article class="c-Paper">
+    <h2 class="c-Paper__title">
+        <a href="{{ post.arxiv_link }}" target="_blank">
+            {{ post.title }}
+        </a>
+    </h2>
+    <p class="c-Paper__authors">
+        {{ post.authors }}.
+        <span>
+            <em>{{ post.conference }}</em>, {{ post.conference_year }}
+        </span>
+    </p>
+    <div class="c-Paper__externalLinks">
+        <a class="c-Paper__externalLinks__item is-abstract" href="#abstract-modal-{{ forloop.index }}" target="_blank">
+            abstract
+        </a>
+        <a class="c-Paper__externalLinks__item is-bibtex" href="#bibtex-modal-{{ forloop.index }}" target="_blank">
+            bibtex
+        </a>
+        <a class="c-Paper__externalLinks__item is-arxiv" href="{{ post.arxiv_link }}" target="_blank">
+            arXiv
+        </a>
+        <a class="c-Paper__externalLinks__item is-code" href="{{ post.code_link }}" target="_blank">
+            code
+        </a>
+    </div>
+</article>
+
+<div class="c-Paper__modal white-popup-block mfp-hide" id="abstract-modal-{{ forloop.index }}">
+    <h2 class="popup-modal-title">Abstract</h2>
+    <p>
+        {{ post.abstract }}
+        <br>
+        <a class="popup-modal-dismiss" href="#">Close</a>
+    </p>
+</div>
+
+<div class="c-Paper__modal white-popup-block mfp-hide" id="bibtex-modal-{{ forloop.index }}">
+    <p>
+        {{ post.bibtex }}
+        <br>
+        <a class="popup-modal-dismiss" href="#">Close</a>
+    </p>
+</div>

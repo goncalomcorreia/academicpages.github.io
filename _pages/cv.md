@@ -18,7 +18,7 @@ Work experience
 ======
 * Summer 2016: Intern
   * Unbabel
-  * Supervisor: João Graça
+  * Supervisor: João Graça, CTO
 
 Skills
 ======

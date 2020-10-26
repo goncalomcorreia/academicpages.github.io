@@ -1,5 +1,5 @@
 ---
-title: "LxMLS Monitor"
+title: "LxMLS 2019 Monitor"
 collection: teaching
 type: "Summer School Monitor"
 permalink: /teaching/2019-summer-LxMLS

@@ -11,8 +11,8 @@ abstract: 'Training neural network models with discrete (categorical or structur
 bibtex: "@inproceedings{correia2020EfficientMarginalizationDiscrete,
 title = {Efficient {{Marginalization}} of {{Discrete}} and {{Structured Latent Variables}} via {{Sparsity}}},
 booktitle = {Proceedings of {{NeurIPS}}},
-author = {Correia, Gon{\c c}alo M. and Niculae, Vlad and Aziz, Wilker and Martins, Andr{\'e} F. T.},
+author = {Correia, Gonçalo M. and Niculae, Vlad and Aziz, Wilker and Martins, André F. T.},
 year = {2020},
 url = {http://arxiv.org/abs/2007.01919}}"
-comment: "Spotlight paper. <a href='https://slideslive.com/embed/presentation/38937873' target='_blank'>Video</a>"
+comment: "Spotlight paper. Video: https://slideslive.com/embed/presentation/38937873"
 ---
